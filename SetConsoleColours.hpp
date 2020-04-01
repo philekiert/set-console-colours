@@ -1,5 +1,4 @@
-#include <winsock2.h>
-#include <iphlpapi.h>
+#include <windows.h>
 
 /* Standard Colour scheme
 -------------------------
